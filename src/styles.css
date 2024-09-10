@@ -1,0 +1,9 @@
+/* Example Tailwind CSS styles */
+body {
+    @apply bg-gray-100;
+  }
+  
+  .container {
+    @apply max-w-4xl mx-auto;
+  }
+  
